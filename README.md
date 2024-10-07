@@ -3,4 +3,5 @@ Working Progress
 
 
 
-![video](https://i.imgur.com/NsWNO4H.mp4)
+https://i.imgur.com/NsWNO4H.mp4
+https://imgur.com/NsWNO4H
