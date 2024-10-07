@@ -3,5 +3,4 @@ Working Progress
 
 
 
-https://i.imgur.com/NsWNO4H.mp4
-https://imgur.com/NsWNO4H
+<a href="https://imgur.com/NsWNO4H"><img src="https://i.imgur.com/NsWNO4H.mp4" title="source: imgur.com" /></a>
